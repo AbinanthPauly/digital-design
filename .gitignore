@@ -1,0 +1,22 @@
+# Icarus Verilog output
+sim
+*.out
+
+# Waveform files
+*.vcd
+
+# GTKWave save files
+*.gtkw
+
+# Vim swap files
+*.swp
+
+# Backup files
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code workspace settings (optional)
+.vscode/
