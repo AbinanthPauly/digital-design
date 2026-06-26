@@ -1,13 +1,13 @@
 # digital-design
 
-digital-design/
+##digital-design/
 │
-├── combinational/
-│   ├── half_adder
-│   ├── full_adder
-│   ├── mux
-│   ├── demux
-│   └── decoder
+###combinational/
+####half_adder
+####full_adder
+####mux
+####demux
+####decoder
 │
 ├── sequential/
 │   ├── flip_flops
